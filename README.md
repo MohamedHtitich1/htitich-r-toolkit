@@ -431,10 +431,10 @@ MIT License - Free to use, modify, and distribute with attribution.
 ## Contact
 
 **Mohamed Htitich, PhD**  
-- Email: mohamed.htitich@gmail.com or m.ahtitich@outlook.com 
+- Email: m.ahtitich@gmail.com or (@outlook.com) 
 - ORCID: https://orcid.org/0000-0002-8732-6286 
-- GitHub: You're there already!
-- Location: Prague/Olomouc, Czechia
+- GitHub: You're here! :)
+- Location: Prague/Olomouc/Casablanca, Czechia and Morocco
 
 ---
 
