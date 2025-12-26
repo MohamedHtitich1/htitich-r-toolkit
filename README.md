@@ -289,7 +289,7 @@ This toolkit has been used in the following publications:
 3. **Just Transition Score** (*Measurement*)
    - Functions: `calculate_jts()`, `entropy_weights()`
 
-4. **Merck Health Atlas** (EU NUTS2 regional analysis)
+4. **Health Atlas** (EU NUTS2 regional analysis)
    - Functions: `get_nuts_level()`, `cascade_to_nuts2()`, `export_for_tableau()`
 
 ---
