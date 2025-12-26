@@ -12,7 +12,7 @@
 
 This toolkit consolidates R functions and workflows developed during 4+ years of research on sustainable development measurement at the Social Progress Imperative. It provides a unified, well-documented codebase for:
 
-- **Composite Index Construction** (SPI, JTS, CESP, CPI)
+- **Composite Index Construction** (JTS, CESP, CPI)
 - **Entropy Weighting Methods**
 - **Convergence Analysis** (Phillips-Sul club convergence)
 - **Panel Data Econometrics**
