@@ -2,7 +2,7 @@
 ## A Comprehensive Library for Sustainable Development Measurement & Analysis
 
 **Author:** Mohamed Htitich, PhD  
-**Affiliation:** Social Progress Imperative (2021-2025) | Palacký University Olomouc  
+**Affiliation:** Social Progress Imperative (2021-2025) | Palacký University Olomouc (2021-2025) | Université Hassan II de Casablanca (2014-2020)
 **Version:** 1.0  
 **Last Updated:** December 2025
 
@@ -431,11 +431,11 @@ MIT License - Free to use, modify, and distribute with attribution.
 ## Contact
 
 **Mohamed Htitich, PhD**  
-- Email: mohamed.htitich@gmail.com  
-- ORCID: [Add your ORCID]  
-- GitHub: [Add your GitHub]  
+- Email: mohamed.htitich@gmail.com or m.ahtitich@outlook.com 
+- ORCID: https://orcid.org/0000-0002-8732-6286 
+- GitHub: You're there already!
 - Location: Prague/Olomouc, Czechia
 
 ---
 
-*"Measuring what matters for sustainable development"*
+*"Measuring not only what matters, but what matters most for sustainable development"*
