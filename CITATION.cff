@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+authors:
+  - family-names: "Htitich"
+    given-names: "Mohamed"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "HTITICH R Toolkit: A Comprehensive Library for Sustainable Development Measurement & Analysis"
+version: 1.0.0
+date-released: 2025-12-26
+url: "https://github.com/mohamedhtitich/htitich-r-toolkit"
+license: MIT
+type: software
+keywords:
+  - R
+  - sustainable development
+  - composite indices
+  - convergence analysis
+  - machine learning
+  - spatial analysis
+abstract: >-
+  A comprehensive R toolkit for sustainable development research,
+  featuring functions for composite index construction (CESP, JTS, MPI),
+  Phillips-Sul convergence analysis, segmented regression, Random Forest
+  variable importance, NMDS ordination, and Eurostat spatial data processing.
