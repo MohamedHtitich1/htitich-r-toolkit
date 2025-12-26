@@ -438,4 +438,4 @@ MIT License - Free to use, modify, and distribute with attribution.
 
 ---
 
-*"Measuring not only what matters, but what matters most for sustainable development"*
+*"Measuring what matters most for sustainable development"*
